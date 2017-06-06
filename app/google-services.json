@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "849036974101",
+    "firebase_url": "https://mensajeria-5972b.firebaseio.com",
+    "project_id": "mensajeria-5972b",
+    "storage_bucket": "mensajeria-5972b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849036974101:android:24241490c0df494c",
+        "android_client_info": {
+          "package_name": "com.example.monitor.gowork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849036974101-a5vj60p18nfc8pkap8ca9i60i9k6p2p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjroL5EtUObJELNM97UHhkyJLxn9J7t68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
